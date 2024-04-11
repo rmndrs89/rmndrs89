@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I am Robbin! 👋
+
+📌 I am working as a **postdoctoral researcher** at the [Neurogeriatrics research group](https://neurogeriatrics-kiel.com/), Kiel, Germany  
+
+🛠 I work mainly in Python and MATLAB, and occasionally in R  
+
+👀 I am interested in biomedical engineering and biomechanics    
+
+📫 Get in touch via [e-mail](mailto:r.j.romijnders@gmail.com)  
 
 <!--
 **rmndrs89/rmndrs89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
