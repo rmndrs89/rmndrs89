@@ -1,8 +1,8 @@
 ### Hi, I am Robbin! 👋
 
-📌 I am working as a **postdoctoral researcher** at the [Neurogeriatrics research group](https://neurogeriatrics-kiel.com/), Kiel, Germany  
+📌 I work as a **postdoctoral researcher** at the [Neurogeriatrics research group](https://neurogeriatrics-kiel.com/), Kiel, Germany  
 
-🛠 I work mainly in Python and MATLAB, and occasionally in R  
+🛠 I write my code mainly in Python and MATLAB, and occasionally in R  
 
 👀 I am interested in biomedical engineering and biomechanics    
 
